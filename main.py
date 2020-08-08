@@ -1,4 +1,5 @@
-from game.controller import Controller
+from trinkersamstag.controller import Controller
 
 if __name__ == "__main__":
-    controller = Controller()
+    c = Controller()
+    c.run()
