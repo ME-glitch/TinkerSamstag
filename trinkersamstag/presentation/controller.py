@@ -1,6 +1,6 @@
 import tkinter as tk
-from trinkersamstag import model
-from trinkersamstag.view import View
+from trinkersamstag.presentation import model
+from trinkersamstag.presentation.view import View
 
 
 class Controller:

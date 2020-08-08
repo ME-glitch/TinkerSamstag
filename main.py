@@ -1,4 +1,4 @@
-from trinkersamstag.controller import Controller
+from trinkersamstag import Controller
 
 if __name__ == "__main__":
     c = Controller()
